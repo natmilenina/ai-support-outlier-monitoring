@@ -1,0 +1,601 @@
+message_date,channel_name,channel_id,total_messages,answered_messages,non_response_total,nr_small_talk,nr_statement,nr_unclear_request,nr_out_of_scope,nr_noise_or_spam,nr_user_to_user,nr_missing_context,nr_knowledge_not_found,nr_malicious,nr_other
+2026-01-01,Developer Community,demo_001,204,164,40,4,10,16,1,0,4,1,1,0,3
+2026-01-01,Product Help Forum,demo_002,156,129,27,3,7,9,0,0,4,0,1,0,3
+2026-01-01,API Support Chat,demo_003,133,90,43,4,8,15,6,1,5,0,2,0,2
+2026-01-01,Integration Help Desk,demo_004,64,44,20,2,3,9,0,1,3,1,0,0,1
+2026-01-02,Developer Community,demo_001,187,134,53,5,12,16,2,2,3,4,7,0,2
+2026-01-02,Product Help Forum,demo_002,116,99,17,3,2,10,0,0,0,1,0,0,1
+2026-01-02,API Support Chat,demo_003,123,100,23,4,7,3,0,0,4,2,2,0,1
+2026-01-02,Integration Help Desk,demo_004,51,45,6,0,1,2,0,0,2,0,1,0,0
+2026-01-03,Developer Community,demo_001,211,156,55,2,8,19,2,7,6,3,3,2,3
+2026-01-03,Product Help Forum,demo_002,153,114,39,1,12,12,3,4,1,0,1,1,4
+2026-01-03,API Support Chat,demo_003,108,82,26,3,8,2,2,2,1,1,1,4,2
+2026-01-03,Integration Help Desk,demo_004,79,60,19,1,4,7,1,3,2,0,0,0,1
+2026-01-04,Developer Community,demo_001,168,138,30,3,8,7,2,2,2,1,4,0,1
+2026-01-04,Product Help Forum,demo_002,107,85,22,3,2,9,0,3,1,3,1,0,0
+2026-01-04,API Support Chat,demo_003,94,75,19,4,2,6,0,4,2,0,1,0,0
+2026-01-04,Integration Help Desk,demo_004,52,40,12,2,3,4,0,0,2,1,0,0,0
+2026-01-05,Developer Community,demo_001,152,121,31,0,7,12,0,1,2,4,1,3,1
+2026-01-05,Product Help Forum,demo_002,125,99,26,3,6,10,1,1,2,1,0,2,0
+2026-01-05,API Support Chat,demo_003,116,102,14,1,3,6,2,0,1,0,1,0,0
+2026-01-05,Integration Help Desk,demo_004,51,41,10,1,3,3,0,1,0,0,1,1,0
+2026-01-06,Developer Community,demo_001,157,111,46,1,7,20,3,5,4,0,2,2,2
+2026-01-06,Product Help Forum,demo_002,115,79,36,0,7,12,2,5,4,1,1,1,3
+2026-01-06,API Support Chat,demo_003,134,112,22,2,6,5,0,2,3,1,1,0,2
+2026-01-06,Integration Help Desk,demo_004,63,45,18,2,3,8,0,1,0,1,1,0,2
+2026-01-07,Developer Community,demo_001,252,205,47,6,11,15,5,2,1,2,1,0,4
+2026-01-07,Product Help Forum,demo_002,142,107,35,2,4,18,3,2,1,0,0,0,5
+2026-01-07,API Support Chat,demo_003,128,101,27,4,7,8,0,3,1,1,1,0,2
+2026-01-07,Integration Help Desk,demo_004,86,69,17,1,3,7,0,0,0,0,3,1,2
+2026-01-08,Developer Community,demo_001,214,179,35,6,10,9,1,0,2,0,2,3,2
+2026-01-08,Product Help Forum,demo_002,142,120,22,4,4,7,1,1,2,0,2,1,0
+2026-01-08,API Support Chat,demo_003,108,89,19,2,2,10,0,0,1,0,1,2,1
+2026-01-08,Integration Help Desk,demo_004,62,49,13,0,5,5,0,1,0,1,1,0,0
+2026-01-09,Developer Community,demo_001,215,150,65,11,21,11,4,3,8,2,2,0,3
+2026-01-09,Product Help Forum,demo_002,141,93,48,2,20,8,1,6,7,2,0,0,2
+2026-01-09,API Support Chat,demo_003,121,93,28,3,7,9,1,2,3,0,0,0,3
+2026-01-09,Integration Help Desk,demo_004,80,65,15,2,4,6,0,0,0,2,0,0,1
+2026-01-10,Developer Community,demo_001,88,72,16,1,5,6,2,1,0,0,1,0,0
+2026-01-10,Product Help Forum,demo_002,64,40,24,2,5,9,0,1,0,1,6,0,0
+2026-01-10,API Support Chat,demo_003,61,50,11,0,1,4,1,1,3,0,1,0,0
+2026-01-10,Integration Help Desk,demo_004,40,35,5,1,0,3,0,1,0,0,0,0,0
+2026-01-11,Developer Community,demo_001,122,90,32,4,6,13,1,2,0,0,2,0,4
+2026-01-11,Product Help Forum,demo_002,102,88,14,3,2,5,0,0,0,0,3,0,1
+2026-01-11,API Support Chat,demo_003,88,77,11,0,6,1,1,0,0,1,1,0,1
+2026-01-11,Integration Help Desk,demo_004,46,39,7,0,3,2,1,0,0,0,0,0,1
+2026-01-12,Developer Community,demo_001,209,170,39,7,7,14,0,4,3,4,0,0,0
+2026-01-12,Product Help Forum,demo_002,129,98,31,13,5,5,2,2,1,1,0,2,0
+2026-01-12,API Support Chat,demo_003,116,99,17,4,2,5,1,1,0,1,1,1,1
+2026-01-12,Integration Help Desk,demo_004,63,48,15,3,4,4,0,2,0,0,0,1,1
+2026-01-13,Developer Community,demo_001,173,133,40,3,14,15,0,3,2,0,2,1,0
+2026-01-13,Product Help Forum,demo_002,113,85,28,2,7,10,0,0,2,0,5,0,2
+2026-01-13,API Support Chat,demo_003,104,85,19,1,4,6,2,1,2,0,2,0,1
+2026-01-13,Integration Help Desk,demo_004,55,45,10,0,2,3,0,0,2,0,2,0,1
+2026-01-14,Developer Community,demo_001,164,120,44,7,14,13,1,3,0,1,2,0,3
+2026-01-14,Product Help Forum,demo_002,117,94,23,6,6,6,0,1,1,0,1,0,2
+2026-01-14,API Support Chat,demo_003,116,91,25,4,3,11,0,1,1,3,1,0,1
+2026-01-14,Integration Help Desk,demo_004,64,51,13,3,5,3,0,1,0,1,0,0,0
+2026-01-15,Developer Community,demo_001,167,124,43,3,10,17,1,4,0,1,4,0,3
+2026-01-15,Product Help Forum,demo_002,108,76,32,7,5,11,4,2,1,0,2,0,0
+2026-01-15,API Support Chat,demo_003,88,61,27,3,11,6,1,1,1,0,3,0,1
+2026-01-15,Integration Help Desk,demo_004,48,35,13,1,4,5,0,1,0,0,2,0,0
+2026-01-16,Developer Community,demo_001,207,160,47,7,12,15,0,4,5,3,1,0,0
+2026-01-16,Product Help Forum,demo_002,138,111,27,5,10,8,0,1,1,1,1,0,0
+2026-01-16,API Support Chat,demo_003,116,98,18,4,3,7,0,1,1,1,1,0,0
+2026-01-16,Integration Help Desk,demo_004,72,59,13,3,3,3,0,0,1,1,1,0,1
+2026-01-17,Developer Community,demo_001,104,82,22,2,3,8,3,1,4,1,0,0,0
+2026-01-17,Product Help Forum,demo_002,85,58,27,1,5,13,3,0,2,1,0,0,2
+2026-01-17,API Support Chat,demo_003,57,43,14,1,5,6,1,0,0,1,0,0,0
+2026-01-17,Integration Help Desk,demo_004,48,39,9,0,1,4,2,0,1,0,1,0,0
+2026-01-18,Developer Community,demo_001,136,94,42,4,13,11,3,3,6,1,1,0,0
+2026-01-18,Product Help Forum,demo_002,74,36,38,8,12,6,4,2,3,1,2,0,0
+2026-01-18,API Support Chat,demo_003,78,54,24,0,7,9,0,0,3,2,1,0,2
+2026-01-18,Integration Help Desk,demo_004,52,43,9,0,2,4,0,0,1,0,2,0,0
+2026-01-19,Developer Community,demo_001,219,174,45,15,10,10,1,1,1,4,2,0,1
+2026-01-19,Product Help Forum,demo_002,124,87,37,3,11,12,1,1,3,2,2,0,2
+2026-01-19,API Support Chat,demo_003,141,106,35,6,7,14,4,1,1,0,1,0,1
+2026-01-19,Integration Help Desk,demo_004,71,57,14,0,3,5,2,0,1,1,1,0,1
+2026-01-20,Developer Community,demo_001,158,111,47,6,12,17,3,0,1,1,0,0,7
+2026-01-20,Product Help Forum,demo_002,121,93,28,1,10,10,2,2,0,0,0,0,3
+2026-01-20,API Support Chat,demo_003,102,67,35,4,9,11,1,2,2,1,3,0,2
+2026-01-20,Integration Help Desk,demo_004,67,48,19,3,3,5,1,3,2,0,0,0,2
+2026-01-21,Developer Community,demo_001,182,139,43,4,12,11,1,0,3,6,3,1,2
+2026-01-21,Product Help Forum,demo_002,121,83,38,4,11,14,3,1,1,1,3,0,0
+2026-01-21,API Support Chat,demo_003,113,78,35,1,11,15,1,1,2,1,3,0,0
+2026-01-21,Integration Help Desk,demo_004,68,50,18,2,3,6,1,1,3,1,1,0,0
+2026-01-22,Developer Community,demo_001,222,173,49,5,11,20,1,4,4,1,0,0,3
+2026-01-22,Product Help Forum,demo_002,181,145,36,3,4,14,1,6,2,0,2,1,3
+2026-01-22,API Support Chat,demo_003,118,92,26,3,7,9,2,2,0,0,0,2,1
+2026-01-22,Integration Help Desk,demo_004,77,58,19,4,1,7,3,0,1,2,0,0,1
+2026-01-23,Developer Community,demo_001,237,164,73,7,14,20,6,1,7,0,4,4,10
+2026-01-23,Product Help Forum,demo_002,201,179,22,4,4,7,2,0,0,0,3,0,2
+2026-01-23,API Support Chat,demo_003,134,91,43,8,10,16,2,3,1,1,0,0,2
+2026-01-23,Integration Help Desk,demo_004,80,53,27,4,9,11,1,0,0,0,0,0,2
+2026-01-24,Developer Community,demo_001,135,94,41,4,7,18,2,3,2,2,0,2,1
+2026-01-24,Product Help Forum,demo_002,94,70,24,1,10,7,1,1,1,0,0,0,3
+2026-01-24,API Support Chat,demo_003,70,51,19,2,4,10,1,1,1,0,0,0,0
+2026-01-24,Integration Help Desk,demo_004,43,23,20,5,3,7,1,1,0,2,0,0,1
+2026-01-25,Developer Community,demo_001,143,90,53,8,10,16,2,0,7,4,1,0,5
+2026-01-25,Product Help Forum,demo_002,85,54,31,6,4,12,1,0,3,3,1,0,1
+2026-01-25,API Support Chat,demo_003,92,72,20,3,4,8,1,0,2,2,0,0,0
+2026-01-25,Integration Help Desk,demo_004,44,31,13,3,4,4,0,0,1,0,1,0,0
+2026-01-26,Developer Community,demo_001,194,143,51,11,16,10,1,1,4,1,3,1,3
+2026-01-26,Product Help Forum,demo_002,129,89,40,9,10,11,2,0,4,2,0,0,2
+2026-01-26,API Support Chat,demo_003,94,59,35,5,7,11,0,1,0,5,4,1,1
+2026-01-26,Integration Help Desk,demo_004,56,34,22,4,4,8,0,0,1,1,2,0,2
+2026-01-27,Developer Community,demo_001,189,143,46,3,16,15,1,8,1,1,1,0,0
+2026-01-27,Product Help Forum,demo_002,134,98,36,2,7,13,2,6,2,3,1,0,0
+2026-01-27,API Support Chat,demo_003,92,68,24,4,8,5,2,3,1,0,1,0,0
+2026-01-27,Integration Help Desk,demo_004,60,38,22,4,7,4,1,1,0,2,2,0,1
+2026-01-28,Developer Community,demo_001,237,181,56,8,12,20,2,2,6,0,2,0,4
+2026-01-28,Product Help Forum,demo_002,165,128,37,4,14,12,1,0,3,0,0,1,2
+2026-01-28,API Support Chat,demo_003,151,119,32,4,4,13,0,0,4,0,3,2,2
+2026-01-28,Integration Help Desk,demo_004,83,66,17,4,2,7,0,0,2,0,2,0,0
+2026-01-29,Developer Community,demo_001,190,135,55,5,16,15,6,2,3,2,3,0,3
+2026-01-29,Product Help Forum,demo_002,143,106,37,5,8,13,1,6,3,0,0,0,1
+2026-01-29,API Support Chat,demo_003,130,99,31,5,3,7,1,3,6,1,3,0,2
+2026-01-29,Integration Help Desk,demo_004,64,50,14,1,2,5,3,0,2,0,0,0,1
+2026-01-30,Developer Community,demo_001,146,108,38,4,12,11,2,1,2,0,3,0,3
+2026-01-30,Product Help Forum,demo_002,91,62,29,8,4,9,1,2,0,2,1,0,2
+2026-01-30,API Support Chat,demo_003,83,56,27,3,3,8,2,2,3,0,2,0,4
+2026-01-30,Integration Help Desk,demo_004,43,28,15,3,4,3,0,0,1,1,1,0,2
+2026-01-31,Developer Community,demo_001,154,113,41,2,9,10,3,11,4,0,2,0,0
+2026-01-31,Product Help Forum,demo_002,112,83,29,3,8,9,2,2,2,0,0,0,3
+2026-01-31,API Support Chat,demo_003,80,61,19,2,2,8,4,0,1,0,1,0,1
+2026-01-31,Integration Help Desk,demo_004,55,36,19,2,5,9,1,1,0,1,0,0,0
+2026-02-01,Developer Community,demo_001,70,34,36,6,8,13,0,1,1,2,1,0,4
+2026-02-01,Product Help Forum,demo_002,58,51,7,2,2,2,0,0,0,0,0,0,1
+2026-02-01,API Support Chat,demo_003,48,41,7,0,1,3,0,0,1,0,0,0,2
+2026-02-01,Integration Help Desk,demo_004,31,20,11,1,1,2,0,1,1,1,1,0,3
+2026-02-02,Developer Community,demo_001,228,168,60,8,21,24,3,0,1,0,3,0,0
+2026-02-02,Product Help Forum,demo_002,147,107,40,5,10,14,3,0,4,1,2,0,1
+2026-02-02,API Support Chat,demo_003,112,77,35,3,8,14,1,0,5,0,2,0,2
+2026-02-02,Integration Help Desk,demo_004,71,43,28,8,6,7,2,0,3,1,1,0,0
+2026-02-03,Developer Community,demo_001,214,157,57,4,15,16,3,2,5,4,2,0,6
+2026-02-03,Product Help Forum,demo_002,132,108,24,0,7,8,1,1,1,1,2,2,1
+2026-02-03,API Support Chat,demo_003,126,94,32,2,9,8,1,3,3,4,0,0,2
+2026-02-03,Integration Help Desk,demo_004,83,62,21,3,5,4,0,0,4,0,2,0,3
+2026-02-04,Developer Community,demo_001,186,139,47,10,15,12,1,0,4,4,0,1,0
+2026-02-04,Product Help Forum,demo_002,134,104,30,4,10,5,1,2,3,2,1,2,0
+2026-02-04,API Support Chat,demo_003,83,68,15,2,5,2,3,1,1,1,0,0,0
+2026-02-04,Integration Help Desk,demo_004,60,39,21,4,7,3,2,0,3,1,0,0,1
+2026-02-05,Developer Community,demo_001,223,157,66,4,25,17,4,6,6,1,1,0,2
+2026-02-05,Product Help Forum,demo_002,162,110,52,5,13,18,1,7,5,1,0,1,1
+2026-02-05,API Support Chat,demo_003,106,80,26,5,7,7,1,0,3,0,1,0,2
+2026-02-05,Integration Help Desk,demo_004,84,61,23,1,3,7,3,2,6,0,0,0,1
+2026-02-06,Developer Community,demo_001,207,146,61,8,24,19,2,2,1,0,4,1,0
+2026-02-06,Product Help Forum,demo_002,121,91,30,3,15,6,2,1,1,1,1,0,0
+2026-02-06,API Support Chat,demo_003,112,73,39,2,15,13,2,3,1,2,1,0,0
+2026-02-06,Integration Help Desk,demo_004,71,57,14,2,1,7,1,0,0,2,1,0,0
+2026-02-07,Developer Community,demo_001,140,117,23,1,6,7,1,2,2,1,0,1,2
+2026-02-07,Product Help Forum,demo_002,82,62,20,3,10,4,0,1,1,0,1,0,0
+2026-02-07,API Support Chat,demo_003,74,60,14,0,8,3,0,1,2,0,0,0,0
+2026-02-07,Integration Help Desk,demo_004,40,36,4,0,2,0,0,0,1,0,0,0,1
+2026-02-08,Developer Community,demo_001,169,121,48,7,15,10,1,1,6,2,1,0,5
+2026-02-08,Product Help Forum,demo_002,135,108,27,0,6,14,1,2,2,0,0,0,2
+2026-02-08,API Support Chat,demo_003,119,92,27,1,9,10,1,1,0,3,1,0,1
+2026-02-08,Integration Help Desk,demo_004,53,39,14,1,8,3,0,1,1,0,0,0,0
+2026-02-09,Developer Community,demo_001,206,162,44,6,9,13,3,5,4,1,1,1,1
+2026-02-09,Product Help Forum,demo_002,164,140,24,4,7,6,1,0,2,3,0,0,1
+2026-02-09,API Support Chat,demo_003,143,123,20,1,3,7,2,1,2,2,1,1,0
+2026-02-09,Integration Help Desk,demo_004,86,68,18,2,4,3,1,2,3,1,1,0,1
+2026-02-10,Developer Community,demo_001,163,128,35,2,12,12,1,0,3,0,2,0,3
+2026-02-10,Product Help Forum,demo_002,96,68,28,2,14,5,0,0,1,1,4,0,1
+2026-02-10,API Support Chat,demo_003,83,65,18,2,6,6,1,1,0,0,1,0,1
+2026-02-10,Integration Help Desk,demo_004,50,38,12,0,5,3,1,0,1,0,1,0,1
+2026-02-11,Developer Community,demo_001,157,107,50,4,18,15,1,1,3,0,2,0,6
+2026-02-11,Product Help Forum,demo_002,128,107,21,0,5,8,0,4,2,0,0,0,2
+2026-02-11,API Support Chat,demo_003,89,58,31,5,6,9,1,1,3,1,1,0,4
+2026-02-11,Integration Help Desk,demo_004,63,53,10,1,1,1,1,0,2,0,3,0,1
+2026-02-12,Developer Community,demo_001,153,122,31,3,7,11,3,0,2,1,2,0,2
+2026-02-12,Product Help Forum,demo_002,123,100,23,3,9,3,0,1,1,2,2,0,2
+2026-02-12,API Support Chat,demo_003,79,54,25,1,5,10,1,3,0,2,3,0,0
+2026-02-12,Integration Help Desk,demo_004,57,40,17,0,7,3,1,1,0,3,2,0,0
+2026-02-13,Developer Community,demo_001,220,166,54,10,14,14,1,4,4,1,2,0,4
+2026-02-13,Product Help Forum,demo_002,152,119,33,2,9,10,1,4,3,2,0,0,2
+2026-02-13,API Support Chat,demo_003,136,109,27,4,7,5,2,2,2,0,2,0,3
+2026-02-13,Integration Help Desk,demo_004,75,62,13,1,2,4,1,1,0,3,1,0,0
+2026-02-14,Developer Community,demo_001,166,130,36,4,6,13,3,1,3,3,0,0,3
+2026-02-14,Product Help Forum,demo_002,100,66,34,3,11,10,2,2,1,3,0,0,2
+2026-02-14,API Support Chat,demo_003,80,61,19,3,6,6,1,1,0,2,0,0,0
+2026-02-14,Integration Help Desk,demo_004,57,45,12,0,2,7,1,0,0,0,0,0,2
+2026-02-15,Developer Community,demo_001,117,94,23,2,8,7,2,0,2,0,2,0,0
+2026-02-15,Product Help Forum,demo_002,82,68,14,2,4,5,0,1,1,0,0,0,1
+2026-02-15,API Support Chat,demo_003,75,54,21,2,6,5,2,2,0,0,1,0,3
+2026-02-15,Integration Help Desk,demo_004,37,33,4,0,2,1,0,0,1,0,0,0,0
+2026-02-16,Developer Community,demo_001,180,129,51,5,13,20,0,1,3,3,4,0,2
+2026-02-16,Product Help Forum,demo_002,121,81,40,5,12,14,3,1,1,0,1,0,3
+2026-02-16,API Support Chat,demo_003,122,91,31,5,8,10,3,0,1,0,2,1,1
+2026-02-16,Integration Help Desk,demo_004,63,42,21,1,8,7,2,1,1,0,1,0,0
+2026-02-17,Developer Community,demo_001,174,136,38,2,13,15,0,2,5,1,0,0,0
+2026-02-17,Product Help Forum,demo_002,139,121,18,3,6,5,1,0,3,0,0,0,0
+2026-02-17,API Support Chat,demo_003,120,93,27,1,11,12,0,2,0,0,0,0,1
+2026-02-17,Integration Help Desk,demo_004,42,26,16,2,3,9,1,0,0,1,0,0,0
+2026-02-18,Developer Community,demo_001,212,157,55,3,13,16,4,6,5,2,2,1,3
+2026-02-18,Product Help Forum,demo_002,148,111,37,1,8,11,2,0,4,1,7,0,3
+2026-02-18,API Support Chat,demo_003,110,84,26,3,4,8,1,1,3,0,0,0,6
+2026-02-18,Integration Help Desk,demo_004,67,51,16,0,2,5,2,1,2,0,3,0,1
+2026-02-19,Developer Community,demo_001,142,113,29,3,7,11,2,2,0,1,0,0,3
+2026-02-19,Product Help Forum,demo_002,109,75,34,2,6,13,1,1,3,1,3,0,4
+2026-02-19,API Support Chat,demo_003,90,71,19,0,5,8,0,0,2,2,1,0,1
+2026-02-19,Integration Help Desk,demo_004,56,43,13,1,3,5,0,1,2,0,1,0,0
+2026-02-20,Developer Community,demo_001,216,171,45,1,7,18,2,4,6,2,2,0,3
+2026-02-20,Product Help Forum,demo_002,182,143,39,3,9,11,2,4,4,2,1,0,3
+2026-02-20,API Support Chat,demo_003,134,106,28,4,8,7,1,2,2,1,1,0,2
+2026-02-20,Integration Help Desk,demo_004,63,45,18,2,3,4,1,0,5,0,3,0,0
+2026-02-21,Developer Community,demo_001,118,91,27,4,5,14,0,2,0,1,0,0,1
+2026-02-21,Product Help Forum,demo_002,89,66,23,4,10,4,0,0,1,1,0,0,3
+2026-02-21,API Support Chat,demo_003,83,67,16,3,4,4,1,0,3,0,1,0,0
+2026-02-21,Integration Help Desk,demo_004,46,36,10,2,4,4,0,0,0,0,0,0,0
+2026-02-22,Developer Community,demo_001,78,59,19,3,6,4,1,0,1,1,3,0,0
+2026-02-22,Product Help Forum,demo_002,65,55,10,1,2,2,1,0,1,1,2,0,0
+2026-02-22,API Support Chat,demo_003,50,38,12,2,3,4,3,0,0,0,0,0,0
+2026-02-22,Integration Help Desk,demo_004,26,18,8,2,2,2,1,0,0,0,1,0,0
+2026-02-23,Developer Community,demo_001,216,157,59,10,10,24,4,1,4,2,0,0,4
+2026-02-23,Product Help Forum,demo_002,155,115,40,3,11,16,1,1,2,3,2,0,1
+2026-02-23,API Support Chat,demo_003,119,98,21,4,6,6,2,0,0,2,0,1,0
+2026-02-23,Integration Help Desk,demo_004,42,24,18,4,1,6,0,1,2,3,0,0,1
+2026-02-24,Developer Community,demo_001,197,149,48,7,10,23,1,2,3,0,1,0,1
+2026-02-24,Product Help Forum,demo_002,158,125,33,4,10,8,1,0,4,0,2,0,4
+2026-02-24,API Support Chat,demo_003,119,84,35,1,9,17,1,3,0,3,0,0,1
+2026-02-24,Integration Help Desk,demo_004,81,58,23,1,6,7,1,0,1,2,1,0,4
+2026-02-25,Developer Community,demo_001,194,119,75,7,18,28,4,4,4,1,4,1,4
+2026-02-25,Product Help Forum,demo_002,126,83,43,5,7,12,3,1,6,2,7,0,0
+2026-02-25,API Support Chat,demo_003,151,116,35,4,3,12,3,0,6,0,5,1,1
+2026-02-25,Integration Help Desk,demo_004,62,38,24,2,3,8,1,3,1,3,1,1,1
+2026-02-26,Developer Community,demo_001,188,146,42,9,16,9,4,2,0,0,1,0,1
+2026-02-26,Product Help Forum,demo_002,108,85,23,5,3,10,3,0,0,1,0,0,1
+2026-02-26,API Support Chat,demo_003,92,69,23,4,6,10,1,0,1,1,0,0,0
+2026-02-26,Integration Help Desk,demo_004,57,41,16,2,5,5,2,0,1,0,0,0,1
+2026-02-27,Developer Community,demo_001,218,165,53,3,13,20,0,2,3,0,2,0,10
+2026-02-27,Product Help Forum,demo_002,163,123,40,2,11,13,2,0,3,5,1,0,3
+2026-02-27,API Support Chat,demo_003,142,115,27,1,10,9,1,3,0,0,2,0,1
+2026-02-27,Integration Help Desk,demo_004,77,66,11,0,2,1,1,2,1,1,1,0,2
+2026-02-28,Developer Community,demo_001,60,44,16,2,1,8,0,0,2,1,2,0,0
+2026-02-28,Product Help Forum,demo_002,35,26,9,0,5,0,1,0,3,0,0,0,0
+2026-02-28,API Support Chat,demo_003,36,28,8,2,4,2,0,0,0,0,0,0,0
+2026-02-28,Integration Help Desk,demo_004,26,22,4,0,0,3,0,0,0,0,1,0,0
+2026-03-01,Developer Community,demo_001,105,81,24,7,2,5,0,0,2,3,1,0,4
+2026-03-01,Product Help Forum,demo_002,80,60,20,8,3,3,0,1,1,0,1,0,3
+2026-03-01,API Support Chat,demo_003,73,60,13,4,2,4,0,1,0,0,1,0,1
+2026-03-01,Integration Help Desk,demo_004,42,29,13,2,1,7,0,2,1,0,0,0,0
+2026-03-02,Developer Community,demo_001,207,167,40,3,10,16,3,3,1,3,1,0,0
+2026-03-02,Product Help Forum,demo_002,159,130,29,2,6,11,1,2,2,0,2,1,2
+2026-03-02,API Support Chat,demo_003,84,63,21,2,1,3,1,4,2,3,1,0,4
+2026-03-02,Integration Help Desk,demo_004,67,43,24,5,5,4,1,0,2,2,0,0,5
+2026-03-03,Developer Community,demo_001,152,117,35,2,9,17,0,0,1,0,3,0,3
+2026-03-03,Product Help Forum,demo_002,113,93,20,2,8,6,0,1,1,0,1,0,1
+2026-03-03,API Support Chat,demo_003,88,71,17,1,4,6,1,2,1,0,1,0,1
+2026-03-03,Integration Help Desk,demo_004,61,45,16,2,4,8,0,0,0,0,1,0,1
+2026-03-04,Developer Community,demo_001,206,159,47,3,12,9,2,4,0,6,2,0,9
+2026-03-04,Product Help Forum,demo_002,126,96,30,1,13,5,1,1,1,0,2,0,6
+2026-03-04,API Support Chat,demo_003,134,105,29,6,5,9,2,2,1,1,0,0,3
+2026-03-04,Integration Help Desk,demo_004,61,43,18,2,6,3,1,2,2,2,0,0,0
+2026-03-05,Developer Community,demo_001,204,161,43,9,7,9,2,2,5,3,1,1,4
+2026-03-05,Product Help Forum,demo_002,154,124,30,3,8,11,1,2,2,0,3,0,0
+2026-03-05,API Support Chat,demo_003,121,101,20,3,7,6,0,1,0,0,1,1,1
+2026-03-05,Integration Help Desk,demo_004,65,52,13,3,4,3,0,2,0,0,0,0,1
+2026-03-06,Developer Community,demo_001,124,76,48,4,14,16,3,3,3,2,1,0,2
+2026-03-06,Product Help Forum,demo_002,94,64,30,5,12,2,3,0,4,1,1,0,2
+2026-03-06,API Support Chat,demo_003,93,71,22,2,8,4,2,1,1,2,0,0,2
+2026-03-06,Integration Help Desk,demo_004,52,44,8,1,3,1,0,0,3,0,0,0,0
+2026-03-07,Developer Community,demo_001,132,109,23,1,5,12,3,0,0,1,1,0,0
+2026-03-07,Product Help Forum,demo_002,109,90,19,2,3,9,0,1,1,0,1,0,2
+2026-03-07,API Support Chat,demo_003,90,79,11,2,5,2,0,0,2,0,0,0,0
+2026-03-07,Integration Help Desk,demo_004,52,37,15,1,1,7,1,2,0,0,3,0,0
+2026-03-08,Developer Community,demo_001,87,61,26,4,8,7,0,0,0,3,3,0,1
+2026-03-08,Product Help Forum,demo_002,69,50,19,5,4,6,0,0,1,3,0,0,0
+2026-03-08,API Support Chat,demo_003,54,42,12,0,0,5,0,0,2,4,1,0,0
+2026-03-08,Integration Help Desk,demo_004,27,23,4,0,1,2,0,0,0,1,0,0,0
+2026-03-09,Developer Community,demo_001,263,193,70,5,14,27,5,2,7,1,6,1,2
+2026-03-09,Product Help Forum,demo_002,160,110,50,7,16,10,3,1,5,2,3,0,3
+2026-03-09,API Support Chat,demo_003,145,107,38,1,10,10,3,1,3,2,5,0,3
+2026-03-09,Integration Help Desk,demo_004,76,57,19,3,5,5,0,1,1,1,2,1,0
+2026-03-10,Developer Community,demo_001,218,176,42,5,10,17,0,0,2,3,3,1,1
+2026-03-10,Product Help Forum,demo_002,176,142,34,4,7,13,1,0,3,2,1,0,3
+2026-03-10,API Support Chat,demo_003,146,112,34,5,12,10,2,2,0,1,1,1,0
+2026-03-10,Integration Help Desk,demo_004,80,61,19,3,3,7,1,0,1,2,1,1,0
+2026-03-11,Developer Community,demo_001,198,135,63,10,12,17,1,0,3,10,2,3,5
+2026-03-11,Product Help Forum,demo_002,132,89,43,3,7,16,3,1,1,4,2,1,5
+2026-03-11,API Support Chat,demo_003,122,93,29,7,6,8,1,1,1,2,1,0,2
+2026-03-11,Integration Help Desk,demo_004,65,44,21,3,4,9,1,1,0,1,0,0,2
+2026-03-12,Developer Community,demo_001,151,116,35,5,8,5,4,3,5,3,1,0,1
+2026-03-12,Product Help Forum,demo_002,117,89,28,3,10,7,0,3,3,1,0,0,1
+2026-03-12,API Support Chat,demo_003,104,84,20,4,8,3,0,2,1,1,1,0,0
+2026-03-12,Integration Help Desk,demo_004,49,35,14,0,5,2,1,2,1,3,0,0,0
+2026-03-13,Developer Community,demo_001,222,167,55,6,12,27,3,3,1,0,1,0,2
+2026-03-13,Product Help Forum,demo_002,144,106,38,4,10,11,4,3,1,3,1,0,1
+2026-03-13,API Support Chat,demo_003,109,79,30,4,4,14,3,2,2,1,0,0,0
+2026-03-13,Integration Help Desk,demo_004,77,64,13,1,3,3,1,2,0,1,1,0,1
+2026-03-14,Developer Community,demo_001,100,70,30,0,7,10,2,3,2,1,3,0,2
+2026-03-14,Product Help Forum,demo_002,71,56,15,3,3,4,0,0,1,0,2,0,2
+2026-03-14,API Support Chat,demo_003,51,37,14,1,4,5,1,0,0,1,1,0,1
+2026-03-14,Integration Help Desk,demo_004,32,26,6,0,0,1,1,0,1,0,2,0,1
+2026-03-15,Developer Community,demo_001,159,133,26,6,8,2,0,2,0,3,4,1,0
+2026-03-15,Product Help Forum,demo_002,131,108,23,3,8,6,0,1,0,1,4,0,0
+2026-03-15,API Support Chat,demo_003,97,78,19,4,5,5,0,0,1,2,1,0,1
+2026-03-15,Integration Help Desk,demo_004,50,36,14,4,3,4,0,3,0,0,0,0,0
+2026-03-16,Developer Community,demo_001,227,167,60,14,22,12,2,2,2,0,1,0,5
+2026-03-16,Product Help Forum,demo_002,160,127,33,4,11,8,3,0,2,1,2,0,2
+2026-03-16,API Support Chat,demo_003,143,116,27,4,6,6,1,1,1,2,1,0,5
+2026-03-16,Integration Help Desk,demo_004,81,69,12,2,5,1,0,1,1,1,1,0,0
+2026-03-17,Developer Community,demo_001,204,158,46,2,14,15,2,3,3,4,2,0,1
+2026-03-17,Product Help Forum,demo_002,145,108,37,5,8,12,4,0,5,2,1,0,0
+2026-03-17,API Support Chat,demo_003,111,82,29,3,10,4,0,0,8,3,1,0,0
+2026-03-17,Integration Help Desk,demo_004,57,41,16,4,2,4,0,0,2,2,0,0,2
+2026-03-18,Developer Community,demo_001,234,162,72,8,21,16,3,6,2,6,4,1,5
+2026-03-18,Product Help Forum,demo_002,182,132,50,3,14,14,3,4,1,5,3,0,3
+2026-03-18,API Support Chat,demo_003,123,84,39,5,9,12,0,2,1,5,5,0,0
+2026-03-18,Integration Help Desk,demo_004,68,49,19,2,5,7,1,1,1,2,0,0,0
+2026-03-19,Developer Community,demo_001,237,186,51,8,8,15,5,2,4,1,5,0,3
+2026-03-19,Product Help Forum,demo_002,184,154,30,5,5,10,1,2,1,1,4,0,1
+2026-03-19,API Support Chat,demo_003,130,94,36,3,7,10,3,2,6,2,2,0,1
+2026-03-19,Integration Help Desk,demo_004,75,55,20,1,4,9,0,0,2,1,1,0,2
+2026-03-20,Developer Community,demo_001,204,139,65,10,11,20,3,1,4,6,2,0,8
+2026-03-20,Product Help Forum,demo_002,158,127,31,3,5,9,4,2,1,2,1,0,4
+2026-03-20,API Support Chat,demo_003,113,77,36,4,8,12,7,1,1,1,0,0,2
+2026-03-20,Integration Help Desk,demo_004,85,62,23,0,4,8,2,2,3,1,2,0,1
+2026-03-21,Developer Community,demo_001,137,102,35,5,6,10,1,1,2,5,3,1,1
+2026-03-21,Product Help Forum,demo_002,83,58,25,1,9,5,2,2,3,1,2,0,0
+2026-03-21,API Support Chat,demo_003,78,48,30,0,11,8,3,1,1,0,1,1,4
+2026-03-21,Integration Help Desk,demo_004,60,50,10,3,1,3,1,0,1,1,0,0,0
+2026-03-22,Developer Community,demo_001,163,120,43,4,11,12,1,0,4,2,2,4,3
+2026-03-22,Product Help Forum,demo_002,115,83,32,4,8,13,1,0,3,1,1,1,0
+2026-03-22,API Support Chat,demo_003,93,77,16,3,5,7,0,0,1,0,0,0,0
+2026-03-22,Integration Help Desk,demo_004,50,33,17,2,4,4,3,1,1,0,0,0,2
+2026-03-23,Developer Community,demo_001,207,164,43,6,8,19,1,5,1,1,1,1,0
+2026-03-23,Product Help Forum,demo_002,146,115,31,6,7,9,3,2,1,0,1,1,1
+2026-03-23,API Support Chat,demo_003,128,98,30,2,8,11,0,6,0,0,1,1,1
+2026-03-23,Integration Help Desk,demo_004,66,47,19,0,6,7,0,1,2,0,0,1,2
+2026-03-24,Developer Community,demo_001,214,175,39,7,8,16,0,0,2,3,0,0,3
+2026-03-24,Product Help Forum,demo_002,132,101,31,6,9,10,1,0,3,0,1,0,1
+2026-03-24,API Support Chat,demo_003,100,66,34,5,4,15,1,0,3,4,0,1,1
+2026-03-24,Integration Help Desk,demo_004,50,32,18,1,4,10,1,1,0,0,0,0,1
+2026-03-25,Developer Community,demo_001,226,181,45,3,11,11,5,0,2,2,7,1,3
+2026-03-25,Product Help Forum,demo_002,174,143,31,1,10,11,3,0,2,2,2,0,0
+2026-03-25,API Support Chat,demo_003,134,106,28,2,9,7,2,0,2,1,3,1,1
+2026-03-25,Integration Help Desk,demo_004,75,66,9,0,4,2,1,0,0,1,0,1,0
+2026-03-26,Developer Community,demo_001,187,126,61,7,15,24,2,4,2,6,0,0,1
+2026-03-26,Product Help Forum,demo_002,126,87,39,5,9,9,5,1,3,2,1,0,4
+2026-03-26,API Support Chat,demo_003,97,67,30,3,4,9,2,3,4,1,1,0,3
+2026-03-26,Integration Help Desk,demo_004,68,52,16,0,4,6,0,0,0,4,2,0,0
+2026-03-27,Developer Community,demo_001,194,136,58,6,7,22,3,7,6,1,3,0,3
+2026-03-27,Product Help Forum,demo_002,149,116,33,3,10,9,2,0,3,3,1,0,2
+2026-03-27,API Support Chat,demo_003,111,87,24,2,3,11,3,0,2,0,1,0,2
+2026-03-27,Integration Help Desk,demo_004,57,39,18,0,3,8,0,1,2,1,2,0,1
+2026-03-28,Developer Community,demo_001,159,118,41,2,12,14,1,2,1,5,3,0,1
+2026-03-28,Product Help Forum,demo_002,101,74,27,2,8,6,2,2,1,4,1,0,1
+2026-03-28,API Support Chat,demo_003,78,55,23,4,6,7,0,0,3,0,3,0,0
+2026-03-28,Integration Help Desk,demo_004,47,40,7,3,2,1,0,0,0,0,1,0,0
+2026-03-29,Developer Community,demo_001,112,83,29,0,11,13,1,3,0,0,1,0,0
+2026-03-29,Product Help Forum,demo_002,75,58,17,0,7,7,0,2,0,1,0,0,0
+2026-03-29,API Support Chat,demo_003,51,39,12,0,4,4,0,1,0,1,0,1,1
+2026-03-29,Integration Help Desk,demo_004,44,35,9,0,3,4,0,1,0,0,0,0,1
+2026-03-30,Developer Community,demo_001,196,164,32,2,6,14,0,1,4,4,1,0,0
+2026-03-30,Product Help Forum,demo_002,124,104,20,2,4,8,1,0,1,2,2,0,0
+2026-03-30,API Support Chat,demo_003,102,77,25,3,4,13,1,0,2,1,0,0,1
+2026-03-30,Integration Help Desk,demo_004,64,57,7,1,2,2,1,0,0,0,1,0,0
+2026-03-31,Developer Community,demo_001,189,150,39,2,3,18,1,2,1,3,2,3,4
+2026-03-31,Product Help Forum,demo_002,119,87,32,3,11,13,1,1,1,0,0,0,2
+2026-03-31,API Support Chat,demo_003,94,74,20,1,5,10,2,0,1,1,0,0,0
+2026-03-31,Integration Help Desk,demo_004,45,30,15,5,4,2,0,0,1,1,0,0,2
+2026-04-01,Developer Community,demo_001,164,125,39,4,8,14,0,1,2,4,2,0,4
+2026-04-01,Product Help Forum,demo_002,120,94,26,2,6,8,0,2,4,1,1,0,2
+2026-04-01,API Support Chat,demo_003,110,78,32,4,9,8,1,3,2,2,1,0,2
+2026-04-01,Integration Help Desk,demo_004,60,48,12,0,3,5,0,2,0,0,0,0,2
+2026-04-02,Developer Community,demo_001,202,146,56,12,8,26,1,1,2,1,0,1,4
+2026-04-02,Product Help Forum,demo_002,145,124,21,2,3,12,2,0,1,0,1,0,0
+2026-04-02,API Support Chat,demo_003,115,92,23,4,1,9,4,1,3,0,1,0,0
+2026-04-02,Integration Help Desk,demo_004,78,64,14,2,3,6,0,0,1,0,1,0,1
+2026-04-03,Developer Community,demo_001,182,122,60,4,21,19,3,3,3,1,2,2,2
+2026-04-03,Product Help Forum,demo_002,151,114,37,6,7,15,0,2,6,0,1,0,0
+2026-04-03,API Support Chat,demo_003,113,84,29,1,7,10,2,3,3,1,1,1,0
+2026-04-03,Integration Help Desk,demo_004,59,41,18,0,9,2,2,0,1,1,1,0,2
+2026-04-04,Developer Community,demo_001,127,91,36,6,9,10,3,3,1,1,2,0,1
+2026-04-04,Product Help Forum,demo_002,83,58,25,3,7,10,2,1,0,0,0,0,2
+2026-04-04,API Support Chat,demo_003,93,60,33,5,9,12,2,0,1,0,0,0,4
+2026-04-04,Integration Help Desk,demo_004,55,37,18,1,5,9,1,0,0,0,1,0,1
+2026-04-05,Developer Community,demo_001,125,105,20,1,9,6,0,0,0,3,0,0,1
+2026-04-05,Product Help Forum,demo_002,95,77,18,3,3,5,3,1,2,1,0,0,0
+2026-04-05,API Support Chat,demo_003,74,60,14,2,4,2,0,1,2,2,0,0,1
+2026-04-05,Integration Help Desk,demo_004,46,37,9,1,0,3,0,0,3,1,0,1,0
+2026-04-06,Developer Community,demo_001,155,109,46,5,19,13,1,1,2,4,1,0,0
+2026-04-06,Product Help Forum,demo_002,113,78,35,6,10,11,1,1,3,2,0,0,1
+2026-04-06,API Support Chat,demo_003,88,69,19,0,8,4,1,1,1,1,0,0,3
+2026-04-06,Integration Help Desk,demo_004,46,22,24,1,10,6,0,0,4,2,0,0,1
+2026-04-07,Developer Community,demo_001,209,161,48,1,11,17,2,1,7,3,4,0,2
+2026-04-07,Product Help Forum,demo_002,158,121,37,4,8,16,0,1,4,1,1,0,2
+2026-04-07,API Support Chat,demo_003,119,88,31,3,6,11,0,2,6,0,1,0,2
+2026-04-07,Integration Help Desk,demo_004,71,49,22,2,5,9,1,2,0,0,2,0,1
+2026-04-08,Developer Community,demo_001,170,127,43,4,15,17,0,0,3,0,3,0,1
+2026-04-08,Product Help Forum,demo_002,127,98,29,3,12,12,0,0,1,1,0,0,0
+2026-04-08,API Support Chat,demo_003,82,60,22,0,6,6,1,1,4,1,1,0,2
+2026-04-08,Integration Help Desk,demo_004,54,40,14,5,4,3,1,0,0,1,0,0,0
+2026-04-09,Developer Community,demo_001,203,165,38,4,9,10,3,5,1,2,1,1,2
+2026-04-09,Product Help Forum,demo_002,130,99,31,7,7,12,1,1,1,0,0,0,2
+2026-04-09,API Support Chat,demo_003,117,95,22,2,7,7,0,1,0,0,2,2,1
+2026-04-09,Integration Help Desk,demo_004,75,64,11,1,4,2,1,0,2,0,0,0,1
+2026-04-10,Developer Community,demo_001,202,148,54,8,14,17,1,1,4,4,4,1,0
+2026-04-10,Product Help Forum,demo_002,130,77,53,7,14,15,5,3,1,3,4,0,1
+2026-04-10,API Support Chat,demo_003,105,74,31,6,8,11,2,0,0,1,2,0,1
+2026-04-10,Integration Help Desk,demo_004,58,42,16,2,2,5,1,0,2,1,2,0,1
+2026-04-11,Developer Community,demo_001,117,91,26,1,5,8,0,7,1,1,1,0,2
+2026-04-11,Product Help Forum,demo_002,84,60,24,2,12,4,0,2,0,4,0,0,0
+2026-04-11,API Support Chat,demo_003,75,59,16,0,4,5,0,2,1,1,2,0,1
+2026-04-11,Integration Help Desk,demo_004,39,30,9,1,4,1,0,1,0,1,0,0,1
+2026-04-12,Developer Community,demo_001,195,149,46,6,12,11,1,2,4,5,2,0,3
+2026-04-12,Product Help Forum,demo_002,137,100,37,3,8,11,2,5,0,0,7,0,1
+2026-04-12,API Support Chat,demo_003,109,89,20,0,4,4,1,5,1,1,2,1,1
+2026-04-12,Integration Help Desk,demo_004,75,57,18,3,6,1,2,2,3,0,1,0,0
+2026-04-13,Developer Community,demo_001,209,162,47,9,12,15,0,2,2,0,6,0,1
+2026-04-13,Product Help Forum,demo_002,151,124,27,4,7,7,1,4,3,0,1,0,0
+2026-04-13,API Support Chat,demo_003,115,86,29,2,14,4,1,2,2,0,2,0,2
+2026-04-13,Integration Help Desk,demo_004,86,73,13,2,2,2,2,1,2,0,2,0,0
+2026-04-14,Developer Community,demo_001,179,133,46,6,8,17,1,5,1,3,3,1,1
+2026-04-14,Product Help Forum,demo_002,124,91,33,2,9,8,1,5,0,5,3,0,0
+2026-04-14,API Support Chat,demo_003,76,53,23,6,4,3,0,4,3,3,0,0,0
+2026-04-14,Integration Help Desk,demo_004,60,47,13,2,1,8,0,1,0,0,0,1,0
+2026-04-15,Developer Community,demo_001,184,127,57,5,13,15,4,1,6,3,6,0,4
+2026-04-15,Product Help Forum,demo_002,162,111,51,6,16,10,1,2,4,4,1,2,5
+2026-04-15,API Support Chat,demo_003,121,86,35,4,5,12,1,0,2,1,3,0,7
+2026-04-15,Integration Help Desk,demo_004,78,63,15,4,0,5,0,0,3,0,3,0,0
+2026-04-16,Developer Community,demo_001,161,137,24,2,5,8,0,4,3,1,1,0,0
+2026-04-16,Product Help Forum,demo_002,125,107,18,0,3,9,0,2,3,0,0,0,1
+2026-04-16,API Support Chat,demo_003,106,90,16,4,3,5,0,2,1,1,0,0,0
+2026-04-16,Integration Help Desk,demo_004,53,38,15,2,3,6,1,0,2,1,0,0,0
+2026-04-17,Developer Community,demo_001,204,147,57,8,13,14,2,5,5,2,2,2,4
+2026-04-17,Product Help Forum,demo_002,149,108,41,9,8,11,3,2,3,1,2,0,2
+2026-04-17,API Support Chat,demo_003,106,73,33,2,2,9,6,1,5,4,2,0,2
+2026-04-17,Integration Help Desk,demo_004,65,50,15,2,4,5,1,2,0,0,0,0,1
+2026-04-18,Developer Community,demo_001,175,140,35,3,9,13,3,1,0,1,0,0,5
+2026-04-18,Product Help Forum,demo_002,102,68,34,2,12,10,3,1,3,1,2,0,0
+2026-04-18,API Support Chat,demo_003,89,65,24,2,6,13,1,0,0,0,1,0,1
+2026-04-18,Integration Help Desk,demo_004,50,40,10,1,2,5,1,1,0,0,0,0,0
+2026-04-19,Developer Community,demo_001,157,123,34,4,9,10,0,2,3,3,3,0,0
+2026-04-19,Product Help Forum,demo_002,125,102,23,3,4,9,0,1,2,2,0,0,2
+2026-04-19,API Support Chat,demo_003,92,65,27,4,6,5,3,1,3,0,2,1,2
+2026-04-19,Integration Help Desk,demo_004,58,48,10,0,1,6,0,0,1,1,0,0,1
+2026-04-20,Developer Community,demo_001,205,161,44,5,15,14,1,1,2,1,3,0,2
+2026-04-20,Product Help Forum,demo_002,129,107,22,5,10,2,1,2,0,1,1,0,0
+2026-04-20,API Support Chat,demo_003,123,95,28,3,11,9,0,3,0,1,0,0,1
+2026-04-20,Integration Help Desk,demo_004,75,59,16,2,5,6,0,2,0,0,1,0,0
+2026-04-21,Developer Community,demo_001,191,140,51,7,14,13,2,6,3,0,1,0,5
+2026-04-21,Product Help Forum,demo_002,159,138,21,4,7,5,0,0,2,1,0,0,2
+2026-04-21,API Support Chat,demo_003,137,115,22,0,6,9,0,4,0,0,0,1,2
+2026-04-21,Integration Help Desk,demo_004,70,56,14,1,5,7,0,0,1,0,0,0,0
+2026-04-22,Developer Community,demo_001,278,233,45,5,15,10,1,4,4,0,2,0,4
+2026-04-22,Product Help Forum,demo_002,177,127,50,3,22,13,2,5,1,1,1,1,1
+2026-04-22,API Support Chat,demo_003,146,120,26,1,12,9,0,1,1,0,1,0,1
+2026-04-22,Integration Help Desk,demo_004,85,72,13,0,2,7,0,0,1,0,0,0,3
+2026-04-23,Developer Community,demo_001,190,144,46,10,9,15,2,1,4,2,2,0,1
+2026-04-23,Product Help Forum,demo_002,117,77,40,4,8,10,1,0,10,1,1,0,5
+2026-04-23,API Support Chat,demo_003,92,59,33,3,11,12,1,1,0,3,1,0,1
+2026-04-23,Integration Help Desk,demo_004,60,43,17,2,6,6,0,0,1,1,0,0,1
+2026-04-24,Developer Community,demo_001,180,142,38,1,10,9,2,5,3,0,4,0,4
+2026-04-24,Product Help Forum,demo_002,119,84,35,5,9,9,2,3,2,3,2,0,0
+2026-04-24,API Support Chat,demo_003,108,80,28,2,6,12,3,1,1,0,3,0,0
+2026-04-24,Integration Help Desk,demo_004,69,60,9,0,2,2,0,1,4,0,0,0,0
+2026-04-25,Developer Community,demo_001,147,97,50,11,8,16,3,0,4,4,3,0,1
+2026-04-25,Product Help Forum,demo_002,115,82,33,8,6,15,0,1,1,1,0,0,1
+2026-04-25,API Support Chat,demo_003,90,69,21,3,4,8,0,3,1,0,1,0,1
+2026-04-25,Integration Help Desk,demo_004,60,38,22,3,5,7,3,1,0,1,2,0,0
+2026-04-26,Developer Community,demo_001,172,128,44,7,9,12,5,5,1,2,2,0,1
+2026-04-26,Product Help Forum,demo_002,117,82,35,7,6,16,2,1,2,0,1,0,0
+2026-04-26,API Support Chat,demo_003,89,67,22,7,3,8,2,2,0,0,0,0,0
+2026-04-26,Integration Help Desk,demo_004,63,49,14,2,2,6,2,0,1,0,0,0,1
+2026-04-27,Developer Community,demo_001,208,163,45,5,6,19,0,4,3,0,6,1,1
+2026-04-27,Product Help Forum,demo_002,151,115,36,1,5,13,2,2,2,1,7,0,3
+2026-04-27,API Support Chat,demo_003,109,84,25,2,6,6,1,1,5,2,1,0,1
+2026-04-27,Integration Help Desk,demo_004,66,50,16,0,2,6,1,2,3,1,1,0,0
+2026-04-28,Developer Community,demo_001,163,131,32,5,7,10,3,2,1,1,1,1,1
+2026-04-28,Product Help Forum,demo_002,118,93,25,5,4,9,2,0,3,1,0,1,0
+2026-04-28,API Support Chat,demo_003,114,96,18,2,5,6,0,0,3,1,0,1,0
+2026-04-28,Integration Help Desk,demo_004,61,53,8,0,1,3,0,2,0,1,0,1,0
+2026-04-29,Developer Community,demo_001,190,137,53,8,12,11,1,6,7,2,5,0,1
+2026-04-29,Product Help Forum,demo_002,161,131,30,4,11,8,1,0,4,0,2,0,0
+2026-04-29,API Support Chat,demo_003,113,89,24,1,6,7,3,1,2,2,2,0,0
+2026-04-29,Integration Help Desk,demo_004,62,45,17,3,3,5,0,4,1,0,0,0,1
+2026-04-30,Developer Community,demo_001,250,193,57,10,14,14,0,2,3,5,5,0,4
+2026-04-30,Product Help Forum,demo_002,219,182,37,5,5,17,1,1,1,2,3,1,1
+2026-04-30,API Support Chat,demo_003,157,113,44,5,9,10,3,0,3,4,4,1,5
+2026-04-30,Integration Help Desk,demo_004,78,55,23,3,3,8,2,0,1,2,1,0,3
+2026-05-01,Developer Community,demo_001,210,154,56,6,10,24,1,0,3,6,0,0,6
+2026-05-01,Product Help Forum,demo_002,120,88,32,1,8,10,1,1,2,2,1,0,6
+2026-05-01,API Support Chat,demo_003,125,100,25,4,6,7,2,1,0,1,1,0,3
+2026-05-01,Integration Help Desk,demo_004,59,40,19,1,5,5,3,1,0,0,3,0,1
+2026-05-02,Developer Community,demo_001,129,109,20,2,3,10,1,1,0,3,0,0,0
+2026-05-02,Product Help Forum,demo_002,81,58,23,2,5,7,0,1,2,5,1,0,0
+2026-05-02,API Support Chat,demo_003,69,49,20,2,6,8,0,0,3,1,0,0,0
+2026-05-02,Integration Help Desk,demo_004,38,30,8,0,2,3,0,1,0,0,2,0,0
+2026-05-03,Developer Community,demo_001,150,118,32,5,5,15,2,0,0,0,4,1,0
+2026-05-03,Product Help Forum,demo_002,119,102,17,1,5,6,1,1,1,0,0,1,1
+2026-05-03,API Support Chat,demo_003,101,80,21,4,5,5,5,0,1,0,1,0,0
+2026-05-03,Integration Help Desk,demo_004,61,50,11,4,2,4,1,0,0,0,0,0,0
+2026-05-04,Developer Community,demo_001,208,143,65,0,9,33,3,5,2,4,1,0,8
+2026-05-04,Product Help Forum,demo_002,182,150,32,1,6,20,1,0,1,1,1,0,1
+2026-05-04,API Support Chat,demo_003,126,86,40,0,2,22,1,5,7,0,1,0,2
+2026-05-04,Integration Help Desk,demo_004,69,50,19,1,6,6,0,2,0,3,1,0,0
+2026-05-05,Developer Community,demo_001,168,121,47,2,4,32,0,2,4,1,2,0,0
+2026-05-05,Product Help Forum,demo_002,119,85,34,2,6,16,0,2,3,0,2,0,3
+2026-05-05,API Support Chat,demo_003,101,87,14,4,1,5,0,2,1,1,0,0,0
+2026-05-05,Integration Help Desk,demo_004,57,46,11,0,2,6,0,0,0,0,2,0,1
+2026-05-06,Developer Community,demo_001,196,145,51,6,9,22,0,2,6,0,3,0,3
+2026-05-06,Product Help Forum,demo_002,150,111,39,6,7,18,0,1,4,0,2,1,0
+2026-05-06,API Support Chat,demo_003,130,97,33,4,6,14,0,2,2,3,1,0,1
+2026-05-06,Integration Help Desk,demo_004,65,55,10,1,4,2,0,1,1,0,1,0,0
+2026-05-07,Developer Community,demo_001,248,182,66,9,8,34,1,4,4,1,3,0,2
+2026-05-07,Product Help Forum,demo_002,182,137,45,2,14,17,1,1,2,4,3,0,1
+2026-05-07,API Support Chat,demo_003,109,68,41,5,5,18,3,2,3,3,2,0,0
+2026-05-07,Integration Help Desk,demo_004,86,62,24,2,3,7,1,2,4,0,3,0,2
+2026-05-08,Developer Community,demo_001,205,156,49,1,4,28,3,0,4,1,5,1,2
+2026-05-08,Product Help Forum,demo_002,151,124,27,2,3,11,1,2,2,3,0,0,3
+2026-05-08,API Support Chat,demo_003,126,101,25,3,4,11,0,2,2,0,0,0,3
+2026-05-08,Integration Help Desk,demo_004,55,36,19,0,2,11,1,0,3,0,2,0,0
+2026-05-09,Developer Community,demo_001,115,85,30,1,3,14,0,1,2,3,4,1,1
+2026-05-09,Product Help Forum,demo_002,100,81,19,0,4,10,1,0,3,0,0,1,0
+2026-05-09,API Support Chat,demo_003,75,62,13,0,2,6,0,0,2,2,0,0,1
+2026-05-09,Integration Help Desk,demo_004,36,25,11,0,4,6,0,0,0,0,1,0,0
+2026-05-10,Developer Community,demo_001,93,69,24,0,3,11,3,1,4,0,2,0,0
+2026-05-10,Product Help Forum,demo_002,67,43,24,2,2,12,1,2,2,0,3,0,0
+2026-05-10,API Support Chat,demo_003,60,45,15,1,2,8,1,0,0,0,3,0,0
+2026-05-10,Integration Help Desk,demo_004,33,22,11,2,0,7,0,0,0,0,1,0,1
+2026-05-11,Developer Community,demo_001,241,167,74,9,21,20,3,3,9,0,4,0,5
+2026-05-11,Product Help Forum,demo_002,193,145,48,9,10,16,1,4,2,0,2,0,4
+2026-05-11,API Support Chat,demo_003,120,69,51,5,18,19,1,3,2,0,1,0,2
+2026-05-11,Integration Help Desk,demo_004,75,58,17,6,2,5,0,0,0,4,0,0,0
+2026-05-12,Developer Community,demo_001,217,168,49,8,10,14,2,3,2,5,2,0,3
+2026-05-12,Product Help Forum,demo_002,141,100,41,2,9,16,2,5,3,1,3,0,0
+2026-05-12,API Support Chat,demo_003,116,81,35,1,5,20,2,2,1,2,2,0,0
+2026-05-12,Integration Help Desk,demo_004,69,49,20,1,3,9,0,2,2,3,0,0,0
+2026-05-13,Developer Community,demo_001,206,160,46,6,8,12,0,4,7,2,5,0,2
+2026-05-13,Product Help Forum,demo_002,138,100,38,7,10,10,4,1,1,1,1,0,3
+2026-05-13,API Support Chat,demo_003,135,106,29,2,9,10,3,1,0,3,1,0,0
+2026-05-13,Integration Help Desk,demo_004,65,47,18,2,4,9,0,0,1,0,1,1,0
+2026-05-14,Developer Community,demo_001,201,138,63,6,13,25,2,0,4,6,4,0,3
+2026-05-14,Product Help Forum,demo_002,155,112,43,5,11,16,3,0,2,3,1,0,2
+2026-05-14,API Support Chat,demo_003,115,73,42,5,5,17,2,0,3,2,6,0,2
+2026-05-14,Integration Help Desk,demo_004,67,37,30,0,6,12,2,1,4,1,4,0,0
+2026-05-15,Developer Community,demo_001,245,173,72,8,16,28,5,0,8,1,3,0,3
+2026-05-15,Product Help Forum,demo_002,181,152,29,4,5,11,3,0,5,0,1,0,0
+2026-05-15,API Support Chat,demo_003,121,98,23,2,10,7,2,0,0,0,1,0,1
+2026-05-15,Integration Help Desk,demo_004,69,55,14,1,5,5,0,0,1,0,2,0,0
+2026-05-16,Developer Community,demo_001,113,82,31,3,5,7,2,2,4,1,2,0,5
+2026-05-16,Product Help Forum,demo_002,85,68,17,4,4,2,0,0,4,1,1,0,1
+2026-05-16,API Support Chat,demo_003,57,47,10,0,5,0,0,1,1,1,1,0,1
+2026-05-16,Integration Help Desk,demo_004,38,31,7,1,3,1,0,0,2,0,0,0,0
+2026-05-17,Developer Community,demo_001,190,143,47,4,11,5,3,0,4,2,3,0,15
+2026-05-17,Product Help Forum,demo_002,121,96,25,0,4,6,3,1,1,3,3,0,4
+2026-05-17,API Support Chat,demo_003,116,96,20,0,1,6,2,2,3,1,1,0,4
+2026-05-17,Integration Help Desk,demo_004,59,48,11,0,1,3,1,0,2,0,1,0,3
+2026-05-18,Developer Community,demo_001,234,166,68,7,16,18,0,3,6,2,1,0,15
+2026-05-18,Product Help Forum,demo_002,184,135,49,5,15,10,1,6,2,0,1,0,9
+2026-05-18,API Support Chat,demo_003,137,85,52,4,17,11,1,3,4,4,2,0,6
+2026-05-18,Integration Help Desk,demo_004,80,53,27,4,6,5,0,0,2,1,0,0,9
+2026-05-19,Developer Community,demo_001,174,137,37,3,2,7,1,4,10,1,2,0,7
+2026-05-19,Product Help Forum,demo_002,135,111,24,0,4,2,4,3,4,2,1,0,4
+2026-05-19,API Support Chat,demo_003,101,77,24,6,4,6,1,0,2,0,1,0,4
+2026-05-19,Integration Help Desk,demo_004,77,61,16,2,2,0,0,1,6,1,0,0,4
+2026-05-20,Developer Community,demo_001,233,175,58,4,6,10,5,4,7,3,5,0,14
+2026-05-20,Product Help Forum,demo_002,154,104,50,6,13,11,2,1,4,2,6,0,5
+2026-05-20,API Support Chat,demo_003,143,106,37,2,6,10,1,0,8,0,4,0,6
+2026-05-20,Integration Help Desk,demo_004,81,67,14,2,3,4,2,0,0,0,1,0,2
+2026-05-21,Developer Community,demo_001,229,184,45,6,7,5,3,3,2,0,5,2,12
+2026-05-21,Product Help Forum,demo_002,151,111,40,4,5,8,2,1,2,1,3,0,14
+2026-05-21,API Support Chat,demo_003,119,83,36,4,6,3,0,4,0,1,6,0,12
+2026-05-21,Integration Help Desk,demo_004,98,80,18,2,3,6,2,1,0,0,0,0,4
+2026-05-22,Developer Community,demo_001,242,191,51,4,8,16,1,4,6,0,0,0,12
+2026-05-22,Product Help Forum,demo_002,177,130,47,8,5,9,2,4,2,0,1,0,16
+2026-05-22,API Support Chat,demo_003,137,104,33,6,3,9,2,2,3,0,0,0,8
+2026-05-22,Integration Help Desk,demo_004,88,75,13,2,2,2,2,1,0,0,1,0,3
+2026-05-23,Developer Community,demo_001,112,90,22,3,2,3,0,1,3,0,1,0,9
+2026-05-23,Product Help Forum,demo_002,80,65,15,2,3,4,1,0,2,0,0,0,3
+2026-05-23,API Support Chat,demo_003,69,52,17,1,2,5,0,0,1,0,2,0,6
+2026-05-23,Integration Help Desk,demo_004,33,25,8,2,0,2,0,1,0,0,1,0,2
+2026-05-24,Developer Community,demo_001,136,114,22,3,5,7,0,2,2,0,1,0,2
+2026-05-24,Product Help Forum,demo_002,96,71,25,2,5,8,0,1,3,1,2,0,3
+2026-05-24,API Support Chat,demo_003,83,65,18,4,3,5,0,2,0,0,2,0,2
+2026-05-24,Integration Help Desk,demo_004,52,44,8,2,2,2,0,0,1,0,1,0,0
+2026-05-25,Developer Community,demo_001,155,126,29,2,9,10,0,0,4,0,1,1,2
+2026-05-25,Product Help Forum,demo_002,96,64,32,6,8,12,1,0,4,0,0,0,1
+2026-05-25,API Support Chat,demo_003,88,69,19,2,3,1,1,2,2,5,1,0,2
+2026-05-25,Integration Help Desk,demo_004,63,54,9,0,2,2,1,1,2,0,1,0,0
+2026-05-26,Developer Community,demo_001,182,144,38,2,8,14,3,3,2,1,2,0,3
+2026-05-26,Product Help Forum,demo_002,119,90,29,2,4,8,1,1,4,1,7,0,1
+2026-05-26,API Support Chat,demo_003,100,76,24,2,1,6,1,2,1,4,4,0,3
+2026-05-26,Integration Help Desk,demo_004,58,44,14,1,2,4,1,0,0,2,3,0,1
+2026-05-27,Developer Community,demo_001,207,146,61,5,15,24,1,2,2,1,4,3,4
+2026-05-27,Product Help Forum,demo_002,130,84,46,2,6,14,5,1,2,2,9,0,5
+2026-05-27,API Support Chat,demo_003,125,83,42,2,12,17,2,0,1,2,5,1,0
+2026-05-27,Integration Help Desk,demo_004,86,69,17,2,1,9,2,0,0,0,2,0,1
+2026-05-28,Developer Community,demo_001,178,138,40,5,7,17,2,5,2,0,2,0,0
+2026-05-28,Product Help Forum,demo_002,141,113,28,1,7,11,3,3,0,1,1,0,1
+2026-05-28,API Support Chat,demo_003,86,65,21,0,5,9,1,1,0,1,4,0,0
+2026-05-28,Integration Help Desk,demo_004,66,56,10,0,2,3,2,1,0,2,0,0,0
+2026-05-29,Developer Community,demo_001,225,152,73,7,9,25,7,3,6,1,3,8,4
+2026-05-29,Product Help Forum,demo_002,163,138,25,1,9,7,1,1,1,0,3,1,1
+2026-05-29,API Support Chat,demo_003,127,102,25,3,2,9,3,0,1,2,0,3,2
+2026-05-29,Integration Help Desk,demo_004,71,55,16,1,3,1,3,0,2,1,2,1,2
+2026-05-30,Developer Community,demo_001,180,148,32,3,10,11,2,2,2,0,2,0,0
+2026-05-30,Product Help Forum,demo_002,134,98,36,4,15,7,3,1,1,2,3,0,0
+2026-05-30,API Support Chat,demo_003,80,45,35,1,16,11,0,0,3,2,1,0,1
+2026-05-30,Integration Help Desk,demo_004,55,42,13,3,3,3,0,0,2,1,1,0,0
