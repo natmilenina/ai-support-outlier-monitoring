@@ -146,7 +146,7 @@ raw_messages_df["request_date"] = pd.to_datetime(raw_messages_df["request_date"]
 pregenerated_reviews_df = pd.read_csv("data/pregenerated_llm_reviews.csv")
 
 st.markdown("""
-###Detection-week traffic
+### Detection-week traffic
 
 This table shows daily message volume and non-response category counts for the selected week.
 
